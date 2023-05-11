@@ -1,0 +1,90 @@
+body{
+	background-color: #DDD;
+}
+
+#container{
+width: 950px;
+margin: 0px auto;
+}
+.completed{
+	background-color: red;
+	color: white;
+}
+
+#wrapper-input{
+	width: 100%;
+	float: left;
+}
+
+#wrapper-content{
+		width: 100%;
+		float: left;
+
+}
+h1{
+	font-family: verdana;
+	font-size: 22px;
+	
+
+}
+input[type=text]{
+	width: 96%;
+	margin: 10px;
+	padding: 10px;
+	font-family: verdana;
+	font-size: 18px;
+	border-style: none;
+	border: 0px;
+	float: left;
+}
+.btn-toevoegen{
+	width: 150px;
+	margin: 10px;
+	padding: 10px;
+	font-family: verdana;
+	font-size: 18px;
+	border-style: none;
+	border: 0px;
+	background-color: #3CBC8D;
+	color: white;
+	float: left;
+}
+
+.btn-verwijderen{
+	
+	margin: 10px;
+	padding: 10px;
+	font-family: verdana;
+	font-size: 18px;
+	border-style: none;
+	border: 0px;
+	background-color: orange;
+	color: white;
+	float: left;
+}
+.btn-leeg{
+	
+	margin: 10px;
+	padding: 10px;
+	font-family: verdana;
+	font-size: 18px;
+	border-style: none;
+	border: 0px;
+	background-color: red;
+	color: white;
+	float: left;
+}
+ul{
+  font-family: verdana;
+  color: black;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+li{
+	margin: 10px 0px 10px 10px;
+	padding: 20px;
+	background-color: white;
+}
